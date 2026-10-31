@@ -43,8 +43,7 @@ M.S. in Computer Science and Technology from the Technical University of Sofia, 
 #### 📫 Get in touch
 
 <!-- Replace the placeholders below with your links, or delete the lines you don't want -->
-- LinkedIn: [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/YOUR-HANDLE)
-- Email: you@example.com
+- LinkedIn: [linkedin.com/in/vladimir-k-4814911b0](https://www.linkedin.com/in/vladimir-k-4814911b0/)
 
 I'm open to Staff and Senior engineering roles in healthcare and health tech.
 <!---
