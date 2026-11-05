@@ -8,8 +8,7 @@ I've been writing code since I was 10 (thanks to my dad, an IBM mainframe engine
 
 #### 🩺 What I do
 
-- **Telehealth & patient-care platforms.** Most recently, 4+ years as a Staff Engineer at [Lemonaid Health](https://www.lemonaidhealth.com), a telehealth company with its own pharmacy (part of 23andMe until it was sold to Bambu). One project there was an SMS-based prescription refill system built on OhMD.
-- **Healthcare data integration.** X12 837/834 claims and enrollment files, SFTP partner feeds, and getting messy data from one system to another reliably.
+- **Telehealth & patient-care platforms.** Most recently, 5 years as a Staff Software Engineer at [Lemonaid Health](https://www.lemonaidhealth.com), a telehealth company with its own pharmacy (part of 23andMe until it was sold to Bambu). 
 - **Databases at scale.** MySQL in production: online schema changes on 100M-row tables with `gh-ost` and `pt-online-schema-change`, replication, AWS DMS migrations, and tuning.
 - **AWS infrastructure.** Building and operating cloud services, monitoring with CloudWatch, reporting with QuickSight, and keeping things secure and inexpensive to run.
 - **Full stack.** I started out as a backend engineer. Since 2024 I've used AI coding agents (Claude Code, Cursor, Copilot) to work across the whole stack, Angular and React included.
@@ -29,7 +28,8 @@ Before Lemonaid I spent 20+ years at IJS Solutions as team lead, architect, DBA,
 
 #### 🌱 What I'm working on now
 
-- Small Python + React projects, written in the open
+- Getting Calude AI Solutions Architect certification 
+- Small AI driven projects and apps written in the open
 - Building with AI agents to ship faster without cutting corners on quality, security, or compliance
 
 #### 💡 What drives me
