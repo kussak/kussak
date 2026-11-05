@@ -27,6 +27,17 @@ Before Lemonaid I spent 20+ years at IJS Solutions as team lead, architect, DBA,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
+- **Languages**: Python, PHP, Go, TypeScript, C/C++, Java, PL/SQL, Objective-C, Assembly
+- **Databases and Caching**: MySQL, Oracle, Amazon Redshift, MongoDB, Redis
+- **Frameworks and Frontend**: Django, Django REST Framework (DRF), Laravel, Slim, React, Angular
+- **Cloud and Infrastructure**: AWS (ECS, Fargate, EC2, Lambda, API Gateway, SNS, SQS, EventBridge, CloudFront, Route 53, IAM, VPC), Cloudflare
+- **DevOps, CI/CD & IaC**: Terraform, CloudFormation, AWS SAM, Docker, GitHub Actions, Drone, Jenkins
+- **Testing and Quality Assurance**: Unit, integration, and end-to-end testing with Pytest, PHPUnit, Jest, and Playwright; AI-assisted test generation; code review
+- **Observability and Monitoring**: New Relic, CloudWatch, Sumo Logic
+- **Third-Party API Integration**: Stripe, Apple Pay, Google Pay, Twilio, Twilio Verify, SendGrid, Vouched, DoseSpot, Customer.io, Attentive, Impact, Okta, Vonage (TokBox/Nexmo)
+- **Healthcare and Compliance**: HIPAA, PHI, Surescripts, EPCS, e-prescribing, pharmacy integrations, telemedicine
+- **AI**: Agentic engineering with Claude Code, Cursor, GitHub Copilot, and Augment; AI-assisted planning; context engineering; custom agent skills, rules, and plugins; multi-agent workflows and handoffs; shared codebase knowledge graphs; agent validation and self-correction; token usage optimization; prompt engineering; LLM fundamentals; ML fundamentals
+
 #### 🌱 What I'm working on now
 
 - Getting Calude AI Solutions Architect certification 
